@@ -4,6 +4,7 @@
 
 💡 I'm self-taught and very interesting in technology, so I looking for expand my habilities in other areas such as Backend and Databases.
 
+< -------------------- />
 
 👋 ¡Hola! Soy Facundo Hernández, desarrollador web Frontend.
 
